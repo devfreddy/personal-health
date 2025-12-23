@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sensitive health data (modify as needed)
+# Uncomment lines below if you want to keep certain medical records private
+# but still maintain the repo
+
+# If you're sharing this repo, consider encrypting PDFs:
+# *.pdf
+
+# Local environment files
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.bak
