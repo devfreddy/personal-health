@@ -29,12 +29,13 @@ For each condition, document:
 - **Associated Symptoms**:
   - Mood fluctuations
   - Reduced energy/motivation (particularly afternoon crashes around 2:30 PM)
+  - **SSRI-induced emotional blunting** (primary reason for dose reduction; severity ranges 3-4 on good days to 8 on difficult days; 0-10 scale where 10 is complete flatness)
   - Cognitive changes
   - Sleep disruptions (managed with protocol)
 - **Treatment History**:
-  - Current: Escitalopram (titrating down slightly as of December 2024 per protocol: 3 days 5mg, 4 days 10mg)
+  - Current: Escitalopram 10mg daily (reduced from 15mg in December 2024 due to emotional blunting; even at 10mg, blunting persists and is being addressed with methylfolate + magnesium supplementation)
   - Past: [List any previous medications or treatments]
-  - Supplement support: Methylfolate, B vitamins, glycine, phosphatidylserine (see Current_Protocol.md)
+  - Supplement support: Methylation multivitamin 2 capsules daily (2000mcg methylfolate + 2000mcg B12 + 25mg B6 + TMG; trial ongoing since October 2024), magnesium glycinate blend, glycine, phosphatidylserine (see Current_Protocol.md and Medications.md)
 
 ---
 

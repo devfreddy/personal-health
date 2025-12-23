@@ -202,11 +202,81 @@ Active supplement regimen and lifestyle interventions based on genetic analysis 
 
 ---
 
+## SSRI Emotional Blunting Mitigation Trial (October 2024 - Present)
+
+### Background & Rationale
+
+**Problem**: Started escitalopram for recurrent major depression; initial efficacy but developed significant emotional blunting at 15mg dose (rated 8/10 flatness), interfering with quality of life and motivation.
+
+**Dose Reduction**: Reduced escitalopram from 15mg to 10mg in December 2024; blunting improved slightly but persists (ranges 3-4/10 on good days to 8/10 on difficult days).
+
+**Working Hypothesis**: SSRI-induced emotional blunting may be partially driven by underlying folate/B12/magnesium deficiency that amplifies side effects. Supporting methylation pathway and dopamine cofactors may address root cause while maintaining SSRI efficacy.
+
+**Genetic Context**: Compound heterozygous MTHFR (C677T +/-, A1298C +/-) results in ~50% enzyme activity, potentially creating baseline folate/methylation vulnerability exacerbated by SSRI use.
+
+### Trial Protocol: Methylfolate + Magnesium
+
+**Start Date**: Early October 2024
+
+**Phase 1 - Initial Dosing (Week 1, October 2024)**:
+- **Methylfolate**: 15mg once daily, morning
+- **Result**: Significant overstimulation - described as "super powers" feeling but with overwhelming sensations; discontinued due to adverse effects
+
+**Phase 2 - Titration Down (November-December 2024)**:
+- **Methylation Multivitamin**: Reduced from 15mg methylfolate equivalent to 2 capsules daily (2000mcg methylfolate + 2000mcg B12 + 25mg B6 + 200mg TMG)
+- **Magnesium**: Doublewood Mag 8 blend, 5-6 capsules daily distributed (1-2 AM, 1 PM, 1 evening, 3 bedtime)
+- **Result**: More stable response with positive effects on emotional blunting reduction on better days; variability suggests other factors modulating efficacy
+
+**Current Status (December 22, 2024)**:
+- **Methylation Multivitamin**: 2 capsules daily, morning with breakfast (settled on this dose after initial 15mg overstimulation)
+- **Magnesium**: 5-6 capsules daily (dosage per capsule documented in Medications.md)
+- **Observed Pattern**: Some days noticeably reduce blunting (3-4/10), other days effect fades quickly or blunting persists (8/10); looking to understand why same dose produces variable response
+- **Concurrent Medication**: Escitalopram 10mg daily
+
+### Hypothesis Testing with Bloodwork
+
+**Pending Bloodwork (December 22, 2024)** - Taking 3-day pause of methylfolate + magnesium for baseline assessment:
+- **Homocysteine**: Elevated homocysteine suggests impaired methylation capacity
+- **RBC Folate**: Tissue-level folate status (better than serum folate for assessment)
+- **Vitamin B12**: Absolute level + methylmalonic acid (functional marker)
+- **Magnesium**: Serum magnesium (note: standard labs often underestimate true intracellular deficiency)
+
+**Expected Results**:
+- If RBC folate LOW + B12 LOW: Confirms deficiency hypothesis; supplementation is legitimate treatment
+- If homocysteine ELEVATED: Supports methylation pathway disruption; supplementation justified
+- If markers NORMAL: Response may be placebo/expectancy or subclinical deficiency; continue if effective and safe
+
+### Key Observations & Questions
+
+**What's Working**:
+- Noticeable improvement in emotional blunting on "good" days when methylfolate dose is right
+- No adverse effects at 2-4mg range (unlike 15mg overstimulation)
+- Magnesium + methylfolate combination appears synergistic for dopamine/mood support
+
+**What's Unclear**:
+- Why variability exists day-to-day (same dose, different response); potential factors:
+  - Folate absorption/GI factors
+  - Interaction with circadian methylation demands
+  - Magnesium depletion/repletion cycles
+  - Interaction with SSRI metabolism
+  - Hormone cycle (if applicable) / stress level
+- Optimal methylfolate dose (currently 2-4mg; need to narrow range)
+- Whether increasing methylfolate above 4mg would help or if ceiling reached
+- How long effect lasts once dose found (tolerance, stability)
+
+**Monitoring Approach**:
+- Track daily methylfolate dose, magnesium intake, emotional blunting rating (0-10 scale), and any correlated variables (sleep, stress, energy, food intake)
+- Once bloodwork results available: Correlate biomarkers with symptom improvements/variability
+- Plan for dose stability testing: Once optimal range identified, run 2-4 weeks of consistent dosing to assess sustainability
+
+---
+
 ## Protocol Adjustments Over Time
 
 ### Current Status (December 2024)
-- **Methylfolate experimentation**: Started October 2024, had 4-6 weeks relative consistency in November-December
-- **Escitalopram adjustment**: Currently titrating (3 days 5mg, 4 days 10mg) after 4 weeks at standard dose
+- **Methylfolate + magnesium trial**: Active since October 2024; in refinement phase looking to optimize dose for emotional blunting reduction
+- **Escitalopram adjustment**: Reduced to 10mg daily (from 15mg) in December 2024 due to emotional blunting
+- **Bloodwork**: 3-day supplement pause for baseline labs (December 22, 2024)
 - **Sleep**: Generally improved with protocol
 - **Afternoon crashes**: Still experiencing 2:30 PM crash; need stronger intervention (1:30 PM activity focus)
 

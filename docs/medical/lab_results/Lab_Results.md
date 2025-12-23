@@ -16,6 +16,41 @@ For each lab panel, document:
 
 ## Lab Panels
 
+### Pending: December 22, 2024 - SSRI Blunting & Methylation Assessment
+
+**Date**: December 22, 2024 (baseline collection; 3-day pause of methylfolate + magnesium supplements)
+**Provider**: [Ordering physician/lab name]
+**Specimen Type**: Blood (fasting preferred)
+**Status**: Pending results
+
+#### Purpose
+Testing to assess whether SSRI emotional blunting is related to underlying folate/B12/magnesium deficiency that methylfolate + magnesium supplementation is addressing.
+
+#### Tests Ordered (Critical for Methylation Assessment)
+
+| Test | Why | Target Range | Notes |
+|------|-----|--------------|-------|
+| **Homocysteine** | Central methylation marker; elevated suggests impaired pathway | <10 µmol/L (optimal <7) | If elevated + low folate/B12 = confirms deficiency hypothesis |
+| **RBC Folate** | Tissue-level folate status (better than serum) | >300 ng/mL | Low = supports methylfolate supplementation |
+| **Vitamin B12 (Cobalamin)** | Cofactor for methylation | >400 pg/mL (optimal >500) | May be masked if folate status inadequate |
+| **Methylmalonic Acid (MMA)** | Functional B12 marker | <0.4 µmol/L | Elevated = B12 deficiency even if serum normal |
+| **Serum Folate** | Basic folate status | >5.5 ng/mL | Companion to RBC folate |
+| **Magnesium (serum)** | Baseline magnesium | >1.7 mg/dL | Note: serum often underestimates intracellular deficiency |
+
+#### Clinical Interpretation Expected
+- **If LOW RBC folate + LOW B12**: Confirms methylation pathway disruption; supplementation is legitimate treatment not placebo
+- **If ELEVATED homocysteine**: Supports methyl cycle impairment; supplementation justified
+- **If markers NORMAL**: Effect observed may be placebo/expectancy, or subclinical deficiency not captured by standard labs; continue if safe and effective
+- **If HIGH magnesium**: Unlikely given distributed dosing, but confirms adequate repletion
+
+#### Connection to Current Treatment
+- Currently taking methylation multivitamin 2 capsules daily (2000mcg methylfolate + 2000mcg B12 + 25mg B6 + 200mg TMG) + Doublewood Mag 8 blend (5-6 capsules daily)
+- Experiencing variable but positive effects on emotional blunting (3-4/10 on good days vs. 8/10 on bad days)
+- Paused supplementation for 3 days prior to labs for baseline assessment
+- Results will inform whether deficiency is driving the effects and whether to continue, adjust dose, or reconsider approach
+
+---
+
 ### Example Template (delete after adding real data)
 
 **Date**: YYYY-MM-DD
