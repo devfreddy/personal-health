@@ -722,9 +722,237 @@ Vitamins B9 (folate) and B12 are essential water-soluble vitamins that drive a s
 
 ---
 
-## Summary of Current Clinical Guidelines
+## Practical Interpretation Framework
 
-### Testing Recommendations
+**INSIGHT FROM GLM:** A systematic approach to prioritizing genetic findings for clinical decision-making.
+
+### Prioritizing Genetic Findings
+
+**Tier 1: Variants with Strongest Clinical Evidence**
+- MTHFR C677T homozygous (TT) with elevated homocysteine
+- CBS C699T homozygous (especially with cardiovascular risk factors)
+- COMT V158M with confirmed psychiatric symptoms and medication intolerance
+- MTRR A66G with documented elevated homocysteine
+
+**Tier 2: Variants with Moderate Evidence**
+- MTHFR C677T heterozygous (CT) with folate deficiency
+- COMT V158M heterozygous with pain or mood symptoms
+- MAO-A R297R with psychiatric symptoms in females
+- VDR polymorphisms with autoimmune or bone health concerns
+
+**Tier 3: Variants with Limited or Controversial Evidence**
+- BHMT-08 and other BHMT variants
+- MTR A2756G (population-dependent effects)
+- MTHFR A1298C (weak effect)
+- VDR polymorphisms in general screening (inconsistent meta-analyses)
+
+### Clinical Decision-Making Algorithm
+
+1. **Test Initiation**: Order testing when clinical presentation suggests methylation pathway involvement (elevated homocysteine, unexplained neuropsychiatric symptoms, family history of metabolic disorder)
+2. **Interpret Results**: Cross-reference genetic findings with biomarkers (homocysteine, folate, B12, methylmalonic acid)
+3. **Intervention**: Only intervene if genetic variant + biomarker abnormality + clinical symptoms align
+4. **Monitor**: Track relevant biomarkers 6-12 weeks after intervention; reassess necessity of genetic-based treatment
+
+---
+
+## Enhanced Gene-Gene Interactions
+
+**INSIGHT FROM GLM:** Specific epistatic effects that may have compounded clinical significance.
+
+### Synergistic Combinations
+
+**MTHFR C677T + MTR A2756G Combination**
+- Compounded effect on homocysteine elevation
+- Individuals with both variants (especially in TT/AG or TT/GG configuration) may show 40-50% greater homocysteine elevation than either variant alone
+- Clinical relevance: Higher threshold for intervention, may require combined B12 + folate supplementation
+
+**COMT V158M + MAO-A R297R Combination**
+- Potential for greater neurotransmitter imbalance
+- Val/Val COMT with high-activity MAO-A may lead to more rapid dopamine and serotonin degradation
+- Clinical presentation: May show greater medication sensitivity, require lower psychiatric medication doses
+
+**CBS C699T + MTHFR C677T Combination**
+- Complex effects on homocysteine metabolism and transsulfuration
+- CBS activity elevation (from C699T) + reduced remethylation (from MTHFR TT) = variable homocysteine levels depending on SAM status
+- Clinical implication: Response to B6 supplementation may be unpredictable; requires biomarker monitoring
+
+**MTRR A66G + MTHFR C677T in Pregnancy**
+- Combined effect increases Down syndrome risk (2.98-fold if MTHFR CT/TT + MTRR GG)
+- Requires higher periconceptional folate supplementation
+
+### Protective Combinations
+
+**CBS C699T + Adequate Folate Status**
+- CBS activity elevation with sufficient folate reduces cardiovascular risk
+- Protective effect seen mainly when serum folate >15.4 nmol/L and B12 adequate
+- Clinical implication: Dietary folate adequacy may fully mitigate CBS variant risk
+
+**COMT Val/Val + High-Dose Omega-3 Supplementation**
+- Some evidence suggests omega-3s may modulate dopamine sensitivity
+- May help offset rapid COMT-mediated dopamine degradation
+- Limited research; clinical benefit variable
+
+---
+
+## Personalized Intervention Guidelines
+
+**INSIGHT FROM GLM:** Genotype-specific nutritional recommendations based on current evidence.
+
+### Folate Supplementation by MTHFR Genotype
+
+**MTHFR CC (Normal Activity)**
+- RDA: 400 mcg DFE (Dietary Folate Equivalent) daily
+- Form: Standard folate or folic acid
+- Response: Adequate with balanced diet in most cases
+
+**MTHFR CT (Heterozygous, ~65% activity)**
+- RDA: 600-800 mcg DFE daily
+- Preferred form: 5-methyltetrahydrofolate (5-MTHF) or folinic acid, though folic acid also effective
+- Consideration: If elevated homocysteine confirmed, increase to upper range
+
+**MTHFR TT (Homozygous, ~25-30% activity)**
+- RDA: 800-1200 mcg DFE daily
+- Preferred form: 5-MTHF (500-1000 mcg) or folinic acid
+- Important: Folic acid still effective; the "MTHFR can't process folic acid" claim is clinically unsupported
+- Monitoring: Check serum folate levels; if >20 nmol/L without homocysteine reduction, genetic variation may not be limiting factor
+
+### B Vitamin Requirements by Genotype
+
+**B12 (Cobalamin) - For MTR/MTRR Variants**
+- MTRR A66G (especially AA genotype): 1000-2000 mcg weekly (IM or oral daily)
+- MTR A2756G AG or GG: 1000 mcg weekly
+- Form: Methylcobalamin preferred if available; cyanocobalamin also effective
+- Monitoring: Check plasma B12 and methylmalonic acid levels; target B12 >400 pg/mL
+
+**B6 (Pyridoxine) - For CBS Variants**
+- CBS C699T heterozygous: 25-50 mg daily
+- CBS C699T homozygous: 50-100 mg daily, especially if homocysteine elevated
+- Indication: Only supplement if elevated homocysteine or CBS deficiency confirmed
+- Monitoring: Pyridoxal-5-phosphate level; discontinue if neuropathy develops (>100 mg/day long-term risk)
+
+**Riboflavin (B2) - For MTHFR Variants**
+- MTHFR TT: 10-30 mg daily as adjunct to folate supplementation
+- Rationale: Riboflavin is cofactor for MTHFR; may enhance enzyme function
+- Duration: 3-6 months, reassess based on homocysteine response
+
+**B9 (Methylfolate) - Alternative to Folic Acid**
+- Advantage: Bypasses need for MTHFR conversion
+- Disadvantage: More expensive; no proven superior benefit if MTHFR pathway intact
+- Use when: MTHFR TT + folic acid shows poor response, or intolerance to folic acid
+- Dose: 1000-2000 mcg daily in divided doses
+
+### Betaine Supplementation
+
+**Indication:**
+- Elevated homocysteine not responding to B vitamins
+- Particularly for MTRR variants (activates alternative BHMT pathway)
+
+**Dosing:**
+- 3-6 grams daily in divided doses (1-2g three times daily)
+- Monitoring: Check plasma homocysteine 6-8 weeks; betaine effect typically seen within 2 weeks if effective
+- Caution: May raise methionine levels; monitor in AHCY deficiency
+
+---
+
+## Evidence Quality and Limitations
+
+**INSIGHT FROM GLM:** Explicit framework for assessing research strength and applicability.
+
+### Strength of Evidence Scale
+
+**Level A: Strong Evidence**
+- Multiple meta-analyses consistently showing effect
+- Large randomized controlled trials
+- Example: MTHFR C677T association with stroke risk (38 studies, >14,000 subjects)
+
+**Level B: Moderate Evidence**
+- Single or few meta-analyses with consistent findings
+- Large observational studies with appropriate controls
+- Example: COMT V158M association with antipsychotic response; MTRR A66G with Down syndrome risk
+
+**Level C: Limited Evidence**
+- Small studies or case reports
+- Single studies without replication
+- Example: VDR polymorphisms and bone density (inconsistent across meta-analyses)
+
+**Level D: Theoretical or Hypothetical**
+- Based on biochemical mechanism alone without clinical confirmation
+- Anecdotal reports or case studies
+- Example: Some BHMT variant associations with cardiovascular disease (no confirmed mechanism)
+
+### Population-Specific Considerations
+
+**Geographic and Ancestral Variations:**
+- Most research conducted in European and East Asian populations
+- Limited data on African, Indigenous, and mixed-ancestry populations
+- Example: MTR A2756G association with NTD varies: significant in Eastern Indian population, absent in Caucasian children
+
+**Environmental-Genetic Interactions:**
+- Gene-environment effects vary by cultural dietary patterns
+- Folate fortification status dramatically affects MTHFR clinical relevance
+- B12 availability (higher in omnivorous diets) influences MTR/MTRR expression
+
+**Pharmacogenetic Populations:**
+- Psychiatric medication response (COMT, MAO-A) studied primarily in European ancestry
+- Limited data on non-European populations
+- Extrapolation to other populations may not be valid
+
+---
+
+## Gene-Environment Interactions
+
+**INSIGHT FROM GLM:** How environmental factors modify genetic effects and clinical outcomes.
+
+### Dietary Factors
+
+**High Protein Intake**
+- May exacerbate CBS variants by increasing homocysteine production
+- Particularly relevant for CBS C699T homozygotes
+- Recommendation: Monitor homocysteine if consuming >1.8 g/kg body weight daily protein
+- Mitigation: Adequate folate + B12 can often compensate
+
+**Alcohol Consumption**
+- Impairs folate absorption and metabolism
+- Compounds effect of MTHFR variants by functionally reducing folate availability
+- Risk: Even moderate consumption (2-3 drinks/week) may impair folate metabolism
+- Recommendation: Minimize alcohol in MTHFR TT individuals
+
+**Folate Fortification Status**
+- Dramatically mitigates MTHFR variant clinical effects
+- Countries with mandatory folate fortification: MTHFR variants have minimal population impact
+- Paradox: Fortification may mask B12 deficiency by normalizing folate-dependent symptoms
+
+**Caffeine**
+- May increase COMT activity peripherally
+- High caffeine intake (>400 mg/day) may exacerbate symptoms in Val/Val COMT individuals
+- Modifiable factor: Trial of caffeine reduction for COMT variants with anxiety
+
+### Toxin and Stress Exposure
+
+**Heavy Metals**
+- Lead, mercury, cadmium: Compound methylation cycle disruption
+- Affect: Reduce MTHFR, MTR, and BHMT enzyme function
+- Higher risk: Individuals with methylation variants + occupational/environmental metal exposure
+- Monitoring: Consider heavy metal screening in symptomatic variant carriers
+
+**Pesticides**
+- May particularly affect individuals with compromised detoxification pathways
+- Mechanism: Some pesticides inhibit folate metabolism
+- Risk: Farming or gardening with frequent pesticide exposure + MTHFR variants = compounded risk
+
+**Chronic Stress**
+- Increases COMT activity and catecholamine demand
+- High-demand occupations: COMT Val/Val individuals may develop symptoms under sustained stress
+- Neurotransmitter depletion: Met/Met individuals may become more sensitive to stress-induced mood changes
+
+**Micronutrient Deficiencies**
+- Zinc (cofactor for BHMT, CBS): Deficiency impairs variant enzyme function
+- Magnesium: Required for multiple methylation pathway enzymes
+- B-vitamin cofactors: Deficiency makes genetic variants clinically relevant even if previously asymptomatic
+
+---
+
+## Summary of Current Clinical Guidelines
 
 **NOT Recommended for Routine Screening:**
 - MTHFR C677T and A1298C (per ACMG)
