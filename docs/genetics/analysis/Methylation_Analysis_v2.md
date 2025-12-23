@@ -102,7 +102,7 @@ Intermediate COMT activity means:
 - Reasonable dopamine availability (not depleted)
 - Balanced stress response capabilities
 
-**Interaction Note:** COMT variants interact with VDR and MAO-A (see Gene Interactions section). Your heterozygous COMT with heterozygous VDR Taq may have clinically observed difficulty with methyl donors in sensitive individuals, though this is not universally observed.
+**Interaction Note:** COMT variants interact with VDR and MAO-A (see Gene Interactions section). Your heterozygous status on both genes does not create a significant concern for methyl donor sensitivity.
 
 **Actionable:** Monitor for mood/stress response patterns. Heterozygous status is generally well-tolerated. The H62H and P199P normal variants are favorable.
 
@@ -144,7 +144,7 @@ These variants are usually inverse (one +/+ while other is -/-), but you have bo
 - Circulating vitamin D levels may not perfectly reflect tissue vitamin D action
 
 **COMT-VDR Interaction:**
-Clinical observation (with limited research support): combination of COMT V158M (+/-) and VDR Taq (+/-) may result in individuals having some difficulty with methyl donors. This is noted as clinical observation, not well-established in literature.
+A theoretical interaction has been noted in the literature (COMT V158M combined with VDR Taq variants), but this applies to homozygous extremes, not heterozygous status like yours. Your genotype does not present concern for methyl donor sensitivity.
 
 **Actionable:**
 - Maintain adequate vitamin D levels (25-OH vitamin D 40-60 ng/mL often recommended, though optimal is debated)
@@ -370,16 +370,13 @@ All other normal variants (ACAT1, MTHFR P39P, CBS A360A, AHCY variants) indicate
 **Your Status:** COMT V158M (+/-) + VDR Taq (+/-)
 
 **Clinical Observation:**
-Physicians have clinically observed that individuals with both COMT V158M (+) and VDR Taq (+) may have difficulty tolerating methyl donors. This is NOT well-established in peer-reviewed literature but is noted as a clinical pattern.
+Physicians have clinically observed that individuals with COMT V158M (+/+) homozygous AND VDR Taq (-/-) homozygous may have difficulty tolerating methyl donors. This is NOT well-established in peer-reviewed literature but is noted as a clinical pattern.
 
-**Proposed Mechanism:**
-- COMT (+/-) heterozygous: intermediate dopamine metabolism
-- VDR Taq (+/-) heterozygous: intermediate vitamin D signaling
-- Combined effect: unclear mechanism, but observed intolerance to methylfolate, folinic acid, or methylcobalamin supplementation in some patients
+**Important Clarification for Your Profile:** You are **heterozygous for both variants**, not homozygous. The "methyl donor sensitivity" concern specifically applies to homozygous extremes (COMT +/+ combined with VDR -/-). Your intermediate status on both genes means this theoretical concern does not apply to you.
 
-**Your Risk Profile:** Moderate observation. You have both variants heterozygous, not homozygous, so effect would be mild if present.
+**Your Risk Profile:** Very low. The caution about methyl donor sensitivity is not relevant for your genotype.
 
-**Actionable:** If using folate/B12 supplementation, monitor tolerance. If considering methylated forms (methylfolate, methylcobalamin), consider starting low and titrating. Folinic acid might be better tolerated.
+**Actionable:** Both methylfolate and folinic acid work equally well for you. Choose based on availability and cost. Standard dosing (500-1,000 mcg) is appropriate without special precautions.
 
 ---
 
@@ -609,8 +606,9 @@ Based on the genetic architecture, you likely have:
 **Folate:**
 - Target: 400-800 mcg daily minimum; may need more given MTHFR C677T (+/-)
 - Sources: Leafy greens, legumes, fortified grains, or supplementation
-- Form consideration: Mix of folate sources recommended; if supplementing, folinic acid or methylfolate depending on COMT-VDR tolerance
+- Form consideration: Either methylfolate or folinic acid work equally well for you. Choose based on availability and cost.
 - Avoid folic acid (synthetic) as sole source if possible; body converts but less efficiently
+- Standard dosing: 500-1,000 mcg daily; no need for cautious titration
 
 **Vitamin B12:**
 - Target: Ensure adequate status; consider supplementation given MTRR variants
