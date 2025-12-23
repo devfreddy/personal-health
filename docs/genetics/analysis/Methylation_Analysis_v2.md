@@ -870,11 +870,15 @@ Based on the genetic architecture, you likely have:
 ### Peer-Reviewed Research by Gene
 
 **MTHFR C677T and A1298C:**
-1. Frosst P, et al. (1995). "A candidate genetic risk factor for vascular disease: a common mutation in methylenetetrahydrofolate reductase." Nature Genetics 10(1):111-113.
-2. Klerk M, et al. (2002). "MTHFR 677C→T polymorphism and risk of coronary heart disease: a meta-analysis." JAMA 288(16):2023-2031.
-3. Sabourin LA, et al. (2020). "MTHFR C677T polymorphism and stroke: a meta-analysis." Cerebrovascular Diseases 49(1):1-10.
-4. Williams MT, et al. (2007). "Associations between the homozygous 677C>T polymorphism of the methylenetetrahydrofolate reductase gene and neural tube defects and other birth defects." American Journal of Medical Genetics 143A(2):151-157.
-5. Medlin EF, et al. (2023). "MTHFR polymorphisms are not associated with recurrent pregnancy loss." Fertility and Sterility 119(3):551-558.
+1. Frosst P, et al. (1995). "A candidate genetic risk factor for vascular disease: a common mutation in methylenetetrahydrofolate reductase." Nature Genetics 10(1):111-113. [VERIFIED] [PubMed: 7647779](https://pubmed.ncbi.nlm.nih.gov/7647779/) | [DOI: 10.1038/ng0595-111](https://doi.org/10.1038/ng0595-111)
+
+2. Klerk M, et al. (2002). "MTHFR 677C→T polymorphism and risk of coronary heart disease: a meta-analysis." JAMA 288(16):2023-2031. [VERIFIED] [PubMed: 12387655](https://pubmed.ncbi.nlm.nih.gov/12387655/) | [DOI: 10.1001/jama.288.16.2023](https://doi.org/10.1001/jama.288.16.2023)
+
+3. Sabourin LA, et al. (2020). "MTHFR C677T polymorphism and stroke: a meta-analysis." Cerebrovascular Diseases 49(1):1-10. [**UNVERIFIED - Citation could not be located**] Consider replacing with verified stroke meta-analyses on MTHFR.
+
+4. **[CORRECTED]** Amorim MR, et al. (2007). "Non-Latin European descent could be a requirement for association of NTDs and MTHFR variant 677C > T: A meta-analysis." Am J Med Genet A 143A(15):1726-1732. [VERIFIED] [PubMed: 17618487](https://pubmed.ncbi.nlm.nih.gov/17618487/) *(Note: Original citation listed as Williams MT—this appears to be the correct neural tube defects meta-analysis)*
+
+5. Medlin EF, et al. (2023). "MTHFR polymorphisms are not associated with recurrent pregnancy loss." Fertility and Sterility 119(3):551-558. [**UNVERIFIED - Citation could not be located in database**]
 
 **COMT V158M:**
 1. Vallada H, et al. (1998). "Catechol O-methyltransferase Val158Met polymorphism and major depression." Lancet 351(9099):309.
